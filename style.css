@@ -17,18 +17,18 @@ body{
 h1 {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 30pt;
+    font-size: 20pt;
     text-align: center;
-    line-height: 30pt;
+    line-height: 20pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
 p {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 15pt;
+    font-size: 10pt;
     text-align: left;
-    line-height: 15pt;
+    line-height: 10pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
