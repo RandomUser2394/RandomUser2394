@@ -1,5 +1,6 @@
 html {
     background-image: url(wallpaper.jpg);
+    background-color: #000000;
     padding: 0px;
     scroll-behavior: auto;
 }
