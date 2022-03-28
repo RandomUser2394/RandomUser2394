@@ -1,5 +1,6 @@
 html {
     background-image: url(wallpaper.jpg);
+    background-position: center;
     background-color: #000000;
     padding: 0px;
     scroll-behavior: auto;
@@ -12,6 +13,9 @@ header{
     margin-top: 0%;
     margin: 0%;
     border: 0ch;
+}
+.img1{
+    text-align: center;
 }
 .boda{
     width: 65%;
