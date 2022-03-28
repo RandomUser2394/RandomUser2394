@@ -4,6 +4,20 @@ html {
     padding: 0px;
     scroll-behavior: auto;
 }
+header{
+    background-color: green;
+    scale: 100%;
+    text-align: center;
+    padding: 0%;
+    margin-top: 0%;
+    margin: 0%;
+    border: 0ch;
+}
+nav{
+    background-color: yellow;
+    width: 1120px;
+    margin: auto;
+}
 body{
     width: 65%;
     min-height: calc(100vh - 4em);
