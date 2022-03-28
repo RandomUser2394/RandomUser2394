@@ -5,7 +5,7 @@ html {
     scroll-behavior: auto;
 }
 header{
-    background-color: green;
+    background-image: linear-gradient(green,rgb(1, 71, 1));
     scale: 100%;
     text-align: center;
     padding: 0%;
@@ -13,19 +13,34 @@ header{
     margin: 0%;
     border: 0ch;
 }
-nav{
-    background-color: yellow;
-    width: 1120px;
-    margin: auto;
-}
-body{
+.boda{
     width: 65%;
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
-    background-color: rgba(255, 255, 255, 0.925)
+    background-image: linear-gradient(rgba(255, 255, 255, 0.925),rgba(207, 207, 207, 0.925));
+    background-color: rgba(255, 255, 255, 0.925);
+    border-style: groove;
+    border-width: 2ch;
+    border-color: green;
 }
 h1 {
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50pt;
+}
+.spoiler, .spoiler2{ 
+    color: black; 
+    background-color:black;
+  }
+.spoiler:hover{
+    color: white;
+    }
+  
+.spoiler2:hover { 
+    background-color:white; 
+    }
+h2 {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-size: 20pt;
@@ -42,4 +57,5 @@ p {
     line-height: 10pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
+    text-align: justify;
 }
