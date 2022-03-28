@@ -1,18 +1,14 @@
 html {
-    background-color: #800080;
+    background-image: url(wallpaper.jpg);
     padding: 0px;
     scroll-behavior: auto;
 }
 body{
-    width: 80%;
+    width: 65%;
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
-    background-color: #ffffff;
-    border-color: #ffffff;
-    border-left-style: solid;
-    border-right-style: solid;
-    border-width: 20px;
+    background-color: rgba(255, 255, 255, 0.925)
 }
 h1 {
     color: #000000;
